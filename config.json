@@ -35,22 +35,22 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61553647340193"
+    "61576599370602"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "61553647340193"
+      "61576599370602"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "ᏢᎽᎠᏒᎾᎨᎠ ᎿᏒᎾᎨᏕ",
+  "nickNameBot": "𝔘𝔷𝔲",
   "prefix": "-",
   "ArYanapi": "https://aryan-rest-api.onrender.com",
   "api": "",
   "api2": "",
   "api3": "",
-  "authorName": "ᎠᏒᎬᎲ ᏝᎬᎬ",
+  "authorName": "𝔘𝔷𝔲𝔪𝔞𝔨𝔦",
   "facebook2": "https://www.facebook.com/the.king.of.ghost.black01",
   "facebook": "https://www.facebook.com/the.king.of.ghost.black01",
   "email": "drexlee243@gmail.com",
